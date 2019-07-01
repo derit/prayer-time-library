@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="STime.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="39"/>
+        <CursorPos X="20" Y="40"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="8" HistoryIndex="7">
+      <Position1>
+        <Filename Value="STime.lpr"/>
+        <Caret Line="6" Column="25"/>
+      </Position1>
+      <Position2>
+        <Filename Value="STime.lpr"/>
+        <Caret Line="17" Column="24" TopLine="10"/>
+      </Position2>
+      <Position3>
+        <Filename Value="STime.lpr"/>
+        <Caret Line="61" Column="21" TopLine="49"/>
+      </Position3>
+      <Position4>
+        <Filename Value="STime.lpr"/>
+        <Caret Line="71" Column="80" TopLine="50"/>
+      </Position4>
+      <Position5>
+        <Filename Value="STime.lpr"/>
+        <Caret Line="67" Column="24" TopLine="51"/>
+      </Position5>
+      <Position6>
+        <Filename Value="STime.lpr"/>
+        <Caret Line="77" Column="4" TopLine="51"/>
+      </Position6>
+      <Position7>
+        <Filename Value="STime.lpr"/>
+        <Caret Line="17" Column="86" TopLine="5"/>
+      </Position7>
+      <Position8>
+        <Filename Value="STime.lpr"/>
+        <Caret Line="75" Column="71" TopLine="29"/>
+      </Position8>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>

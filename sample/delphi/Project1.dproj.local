@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/01/10 21:33:25.000.282,=C:\Users\derit\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/01/10 21:33:42.000.120,C:\Users\derit\Documents\RAD Studio\Projects\Unit1.dfm=D:\Project\test\waktusholat\dll\delphi\Unit1.dfm</Transaction>
+    <Transaction>2017/01/10 21:33:42.000.120,C:\Users\derit\Documents\RAD Studio\Projects\Unit1.pas=D:\Project\test\waktusholat\dll\delphi\Unit1.pas</Transaction>
+    <Transaction>2017/01/10 21:33:47.000.617,C:\Users\derit\Documents\RAD Studio\Projects\Project1.dproj=D:\Project\test\waktusholat\dll\delphi\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
